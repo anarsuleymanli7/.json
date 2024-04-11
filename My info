@@ -1,0 +1,23 @@
+// My info
+{
+  "firstName": "Anar",
+  "lastName": "Suleymanli",
+  "address":
+  {
+    "streetAddress": "Sharifzada st.",
+    "city": "Baku",
+    "state": "Baku",
+    "postalCode": "AZ1100"
+  },
+  "contact":
+  [
+    {
+      "type": "mobile",
+      "number": "077 550-9077"
+    },
+    {
+      "type": "email",
+      "address": "anar.suleymanli@outlook.com"
+    }
+  ]
+}
