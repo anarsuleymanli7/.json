@@ -1,0 +1,31 @@
+// Admin info
+{
+  "admin":
+  [
+    {
+      "first name": "Database",
+      "last name": "Administrator",
+      "place of living":
+      [
+        {
+          "street address": "Record",
+          "city": "Table",
+          "state": "Schema",
+          "country": "RDBMS",
+          "postal code": "PL/SQL"
+        }
+      ],
+      "contact":
+      [
+        {
+          "type": "mobile",
+          "telephone number": "(+7 777) 777 7777"
+        },
+        {
+          "type": "email",
+          "address": "database.administrator@outlook.com"
+        }
+      ]
+    }
+  ]
+}
