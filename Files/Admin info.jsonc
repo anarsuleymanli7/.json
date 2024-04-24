@@ -8,9 +8,9 @@
       "place of living":
       [
         {
-          "street address": "Record",
+          "street address": "Value",
           "city": "Table",
-          "state": "Schema",
+          "state": "Structured",
           "country": "RDBMS",
           "postal code": "PL/SQL"
         }
